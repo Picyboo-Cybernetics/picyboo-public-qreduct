@@ -11,8 +11,8 @@ Classical compression algorithms achieve 60–70% reduction by exploiting statis
 **Keywords:** Quantum Algorithms, Grover Search, Information Theory, Constraint Satisfaction, Lossless Compression, Post-Quantum Storage, Computational Complexity, Data Density
 
 ## Whitepaper
-- PDF: docs/halenta-q-reduct-quantum-ready-erasure-codec-for-extreme-storage-reduction-2025-10-09-v1_1.pdf  
-- DOI:  https://doi.org/10.5281/zenodo.17360291 
+- PDF: docs/halenta-q-reduct-quantum-ready-erasure-codec-for-extreme-storage-reduction-2025-10-09-v1_3.pdf  
+- DOI:  https://doi.org/10.5281/zenodo.17455524 
 
 ## Repository purpose
 Public research reference for industry and collaborators. Mirrors the technical whitepaper and provides stubs for reference implementations or models.
@@ -22,7 +22,7 @@ Openly published for transparency. Implementation stubs included. Roadmaps and c
 
 ## How to cite
 > Halenta, D. N. (2025). *Q-Reduct: Quantum-Ready Erasure Codec.* Picyboo Cybernetics Inc.  
-> DOI: https://doi.org/10.5281/zenodo.17304411
+> DOI: https://doi.org/10.5281/zenodo.17455524
 
 ## Links
 - Website: https://picyboo.com  
